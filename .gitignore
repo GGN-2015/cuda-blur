@@ -6,3 +6,6 @@
 *.fatbin
 
 dat/*
+out/*
+src/.vscode/*
+*.pyc
